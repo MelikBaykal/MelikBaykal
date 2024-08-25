@@ -30,7 +30,7 @@
 
 Beyond development, I have a solid background in e-commerce, marketing, and content creation, allowing me to approach projects with a well-rounded perspective. I thrive on solving complex problems and continuously improving my skills to stay at the forefront of the ever-evolving tech landscape.</p>
 
-<br><br>
+<br>
 
 <table >
   <tr>
@@ -92,6 +92,8 @@ Beyond development, I have a solid background in e-commerce, marketing, and cont
 - 🤝 Communicator: Strong verbal and written communication skills.
 
 - 🛠️ Tool Proficient: Experienced with Git, Docker, and other development tools.
+
+- 📩 My E-mail: themelikbaykal@gmail.com
 
 <br>
 
