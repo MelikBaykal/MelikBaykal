@@ -8,23 +8,28 @@
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/76618468/182401596-c099a3e0-feb7-4eaf-aa10-67c454f1524b.png">
 <br>
 
-- 🔭 I’m currently working on **My own website**
+- 🚀 Full-Stack Developer: Experienced in both front-end and back-end development.
 
-- 🌱 I’m currently learning **Python**
+- 💻 Tech Enthusiast: Passionate about technology from an early age.
 
-- 💬 Ask me about **Web development**
+- 🎮 Game Developer: Skilled in creating immersive gaming experiences.
 
-- 📫 How to reach me **melikbaykall@gmail.com**
+- 🌐 Web Development: Proficient in HTML, CSS, JavaScript, and more.
 
-- ⚡ Fun fact **I am Funny**
+- 🛠️ Problem Solver: Enjoys tackling complex coding challenges.
 
-- 🔭 I’m currently working on **My own website**
+- 🔍 Detail-Oriented: Focused on writing clean, efficient, and maintainable code.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 Continuous Learner: Always learning new programming languages and tools.
 
-<br><br><br><br><br><br><br>
+- 🧠 Creative Thinker: Innovates to find unique solutions to problems.
 
-<p>Merhaba ben melik lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>
+<br><br>
+
+<p>My expertise lies in a diverse range of programming languages and frameworks, including C#, Python, JavaScript, and .NET Core. I also have a strong foundation in game development, having worked extensively with Unity and Blender to bring immersive gaming experiences to life.
+
+Beyond development, I have a solid background in e-commerce, marketing, and content creation, allowing me to approach projects with a well-rounded perspective. I thrive on solving complex problems and continuously improving my skills to stay at the forefront of the ever-evolving tech landscape.</p>
+
 <br><br>
 
 <table >
@@ -74,21 +79,21 @@
 
 <br>
 
-- 🔭 I’m currently working on **My own website**
+- 🛡️ Security-Minded: Prioritizes secure coding practices in all projects.
 
-- 🌱 I’m currently learning **Python**
+- 🎨 UI/UX Designer: Ensures a user-friendly experience in all applications.
 
-- 💬 Ask me about **Web development**
+- 🧩 Team Player: Collaborates effectively with other developers and designers.
 
-- 📫 How to reach me **melikbaykall@gmail.com**
+- 🎯 Goal-Oriented: Sets clear objectives and works diligently to achieve them.
 
-- ⚡ Fun fact **I am Funny**
+- 📈 Analytical: Uses data-driven approaches to optimize performance.
 
-- 🔭 I’m currently working on **My own website**
+- 🤝 Communicator: Strong verbal and written communication skills.
 
-- 🌱 I’m currently learning **Python**
+- 🛠️ Tool Proficient: Experienced with Git, Docker, and other development tools.
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MelikBaykal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
