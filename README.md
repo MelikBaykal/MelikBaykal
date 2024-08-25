@@ -103,25 +103,25 @@ Beyond development, I have a solid background in e-commerce, marketing, and cont
 <br>
 
 <div align="center">
-  <a href="https://www.youtube.com/@themelik">
+  <a href="https://www.hackerrank.com/profile/themelikbaykal">
     <img src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&label=&color=151B25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.youtube.com/@themelik">
+  <a href="https://leetcode.com/u/TheMelik/">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
   <a href="https://www.youtube.com/@themelik">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.youtube.com/@themelik">
+  <a href="https://x.com/TheMelikMotion">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.youtube.com/@themelik">
+  <a href="https://www.behance.net/melikbaykal1">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=0057FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.youtube.com/@themelik">
+  <a href="https://www.linkedin.com/in/melik-baykal-2a130030a/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@themelik">
+  <a href="themelikbaykal@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
