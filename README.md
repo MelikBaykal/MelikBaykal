@@ -39,7 +39,7 @@ Beyond development, I have a solid background in e-commerce, marketing, and cont
     <th>Completion Date</th>
   </tr>
   <tr>
-    <td>Full-Stack Web Development (.Net Core MVC)</td>
+    <td>Full-Stack Web Development (ASP.Net Core MVC)</td>
     <td>Bilge Adam Akademi</td>
     <td>October 2022</td>
   </tr>
